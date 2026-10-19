@@ -13,5 +13,9 @@
   "scripts": {
     "check": "node --check scripts/*.mjs && node --check test/*.test.mjs",
     "test": "node --test test/*.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/record-research-question-service.git"
   }
 }
